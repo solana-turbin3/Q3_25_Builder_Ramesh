@@ -1,0 +1,3 @@
+[submodule "solana-starter-ts"]
+	path = solana-starter-ts
+	url = https://github.com/holps-7/solana-starter-ts
