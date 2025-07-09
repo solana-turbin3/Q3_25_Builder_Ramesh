@@ -1,3 +1,6 @@
 [submodule "solana-starter-ts"]
 	path = solana-starter-ts
 	url = https://github.com/holps-7/solana-starter-ts
+[submodule "anchor-vault"]
+	path = anchor-vault
+	url = https://github.com/holps-7/anchor-vault
